@@ -22,10 +22,10 @@ This project was developed using [Cursor IDE](https://cursor.sh/), a modern IDE 
 2. Project Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fabric-polygon-test.git
+git clone https://github.com/luuvish/fabricjs-polygon-test.git
 
 # Navigate to the project directory
-cd fabric-polygon-test
+cd fabricjs-polygon-test
 
 # Install dependencies
 npm install
